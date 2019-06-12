@@ -1,5 +1,4 @@
 import './style.css';
-//import 'https://openlayers.org/en/v5.3.0/css/ol.css';
 import * as ol from 'openlayers'
 
 var map;
